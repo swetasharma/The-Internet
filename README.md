@@ -42,6 +42,12 @@ ipv6 uses 128 bits per address. DNS associate names www.example,com with the cor
 
 DNS spoofing : when a hacker taps into DNS server and chnages it match domain name with the wrong ip address. thius lets the attacker to send people to foster website.
 
+The Internet: Packets, Routing and Reliability
+
+Hoe is data delivered to you reliably?
+say you wanna play a song from spotify 
+Data travels on the internet in a much less direct fashion. The way information get transferred from one computer to another is pretty interesting It need not follow a fixed path Infact your path may change in midds computer to computer conversation. Information on the internet goes from one computer to another in what we call a packet of information and a packet travels from pne place to another on the internet along way how you might get from one place to another in a car depending on traffic congestion or road condition you might choose or be forced to take the different route to get to the same place each time you travel.
+
 
 
 
